@@ -5,3 +5,4 @@ The study area lies within the foothills of the Northern Black Forest, featuring
 
 
 ![Tree Species](workflow-diagram/workflow.png)
+![Alt text](workflow-diagram/workflow.png)
