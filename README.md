@@ -1,6 +1,6 @@
 # 🌳 Tree Species Mapping with Random Forest
 
-This project implements a **Random Forest** machine learning pipeline to map tree species using spatial data. It addresses real-world challenges such as **class imbalance**, **spatial validation**, and **data augmentation**. The workflow is inspired by ecological data science use cases and integrates various data processing and model evaluation techniques.
+This project implements a **Random Forest** machine learning model to map tree species using sentinel-2 imagery. It addresses real-world challenges such as **class imbalance**, **spatial validation**, and **data augmentation**. The dataset obtain from Badedn-baden forest ineventory + national foreset inventory to creating the Label Dataset.
 
 ---
 
@@ -21,7 +21,7 @@ To develop a robust spatial classification model that accurately predicts tree s
 3. **Tuned Model**  
    The model trained with updated and tuned parameters.
 
-4. **Class Imbalance Management**  
+4. **Handling Class Imbalance**  
    - 🔍 **Option 1: Removal of Mixed Class Points**  
      Created a `No Mixed Class Model` for purer classification.
    - 🔁 **Option 2: Augmented Mixed Class Points**  
