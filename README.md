@@ -2,7 +2,7 @@
 
 This project implements a **Random Forest** machine learning pipeline to map tree species using spatial data. It addresses real-world challenges such as **class imbalance**, **spatial validation**, and **data augmentation**. The workflow is inspired by ecological data science use cases and integrates various data processing and model evaluation techniques.
 
-![Workflow](images/workflow.png)
+![Workflow](images/workflo.png)
 
 ---
 
