@@ -43,4 +43,4 @@ Imbalanced classes (e.g., rare tree species) are a common issue in ecological da
 Each method's performance is compared using **spatial cross-validation** to ensure ecological validity and prevent overfitting to clustered data.
 
 ---
-![Workflow Diagram](workflow-diagram/workflow.PNG)
+![Workflow Diagram](workflow-diagram/workflo.PNG)
